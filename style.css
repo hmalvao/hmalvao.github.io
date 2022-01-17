@@ -20,9 +20,14 @@
     padding: 15px;
     width: 30vw;
     margin: auto;
-  
   }
   
+  .subtitulo {
+    padding: 10px;
+    width: 30vw;
+    margin: auto;
+  }
+
   .box {
     padding: 10px;
     margin: 0 10px 0 10px;
